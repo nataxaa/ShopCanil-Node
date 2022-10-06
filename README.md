@@ -2,7 +2,7 @@
   <img alt="Barber" title="#delicinha" src="github/logo.png" width="150px" borderRadius="20px" />
 </h1>
 
-# Coffee Delivery
+# Shop Pet
 
 <p align="center">
   <a href="https://github.com/nataxaa">
@@ -27,22 +27,23 @@
 
 ## 💻 Projeto
 
-Projeto de um canil feito em Node com TypeScript. Esse exercicio foi realizado 
+Projeto de um canil feito em Node com TypeScript. Esse exercicio foi realizado no curso de node B7web onde foi ensinado alguns conceitos basicos do node, de 
+inicializar um projeto e configurar até rotas, controllers, mustache, entre outras...
 <br />
 
 ## 🌐 Preview
 
 <h1 align="center">
-    <img src="github/coffe_movie.gif" />
+    <img src="github/projeto_node.gif" />
 </h1>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React](https://reactjs.org)
+- [Node](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org/)
-- [Styled Components](https://styled-components.com/)
+
 
 <br />
 
